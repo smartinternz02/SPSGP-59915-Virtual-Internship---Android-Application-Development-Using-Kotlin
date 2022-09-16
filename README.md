@@ -4,6 +4,7 @@ Virtual Internship - Android Application Development Using Kotlin
 ## Name: Pranav Reddy Kasana
 
 ⏩ [Main Project 1](https://github.com/smartinternz02/SPSGP-59915-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Nearby-Places-Finder-App)
+
 ⏩ [Main Project 2](https://github.com/smartinternz02/SPSGP-59915-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Grocery-App)
 
 ⏩ [Google Developer Profile](https://g.dev/pranavkasana)
